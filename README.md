@@ -19,7 +19,7 @@ If my profile meets the requirements you are looking for, do not hesitate to con
 - 👁️ SASS, CSS, Bootstrap, HTML
 - 💽 SQL, postgreSQL, sequelize
 
-- HTML: ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/128px-HTML5_logo_and_wordmark.svg)
+- HTML: ![HTML]([https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/128px-HTML5_logo_and_wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fhtml-5_919827&psig=AOvVaw3OymgA27X9Joh52KUqPfx4&ust=1684511761695000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCmgbud__4CFQAAAAAdAAAAABAE))
 - CSS: ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/128px-CSS3_logo_and_wordmark.svg)
 - JavaScript: ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/128px-Unofficial_JavaScript_logo_2.svg)
 - React: ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/128px-React-icon.svg)
