@@ -14,10 +14,20 @@ If my profile meets the requirements you are looking for, do not hesitate to con
 
 ## Skills
 
-- 👨‍💻 JavaScript, NodeJS
-- ⚙️ React, Express
-- 👁️ SASS, CSS, Bootstrap, HTML
-- 💽 SQL, postgreSQL, sequelize
+- HTML: ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+- CSS: ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+- JavaScript: ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+- React: ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+- Redux: ![Redux](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png)
+- TypeScript: ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
+- PostgreSQL: ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+- Node.js: ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+- Express: ![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+- Sequelize: ![Sequelize](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+- Next.js: ![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
+- MongoDB: ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg)
+- Mongoose: ![Mongoose](https://upload.wikimedia.org/wikipedia/commons/7/7a/Mongoosejs_logo.svg)
+
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
@@ -29,6 +39,10 @@ If my profile meets the requirements you are looking for, do not hesitate to con
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 </div>
 
 
