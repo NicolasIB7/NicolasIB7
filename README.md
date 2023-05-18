@@ -14,21 +14,6 @@ If my profile meets the requirements you are looking for, do not hesitate to con
 
 ## Skills
 
-- HTML: ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-- CSS: ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-- JavaScript: ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-- React: ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-- Redux: ![Redux](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png)
-- TypeScript: ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
-- PostgreSQL: ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
-- Node.js: ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-- Express: ![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
-- Sequelize: ![Sequelize](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
-- Next.js: ![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
-- MongoDB: ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg)
-- Mongoose: ![Mongoose](https://upload.wikimedia.org/wikipedia/commons/7/7a/Mongoosejs_logo.svg)
-
-
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
